@@ -2,7 +2,9 @@
 [![StackHawk](https://github.com/KOSASIH/internet-speed/actions/workflows/stackhawk.yml/badge.svg)](https://github.com/KOSASIH/internet-speed/actions/workflows/stackhawk.yml)
 
 
-# Zetconnect 
+# ZetConnect 
+
+Develop a cutting-edge, super-advanced high-tech internet speed enhancement system aimed at revolutionizing connectivity. Leveraging state-of-the-art technologies, the project aims to achieve unprecedented speeds, ensuring seamless and ultra-fast data transfer for users across the globe.
 
 # Class
 
