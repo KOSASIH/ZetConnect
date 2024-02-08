@@ -2,5 +2,6 @@
 [![StackHawk](https://github.com/KOSASIH/internet-speed/actions/workflows/stackhawk.yml/badge.svg)](https://github.com/KOSASIH/internet-speed/actions/workflows/stackhawk.yml)
 
 
-# internet-speed
+# Zetconnect 
+
 Development in progress 🚀
